@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NicksTation/static/css/main.b3cf2018.css",
+    "main.js": "/NicksTation/static/js/main.cde8581f.js",
+    "static/js/787.0ec5325e.chunk.js": "/NicksTation/static/js/787.0ec5325e.chunk.js",
+    "index.html": "/NicksTation/index.html",
+    "main.b3cf2018.css.map": "/NicksTation/static/css/main.b3cf2018.css.map",
+    "main.cde8581f.js.map": "/NicksTation/static/js/main.cde8581f.js.map",
+    "787.0ec5325e.chunk.js.map": "/NicksTation/static/js/787.0ec5325e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3cf2018.css",
+    "static/js/main.cde8581f.js"
+  ]
+}
